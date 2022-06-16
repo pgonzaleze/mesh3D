@@ -1,0 +1,13 @@
+name: selection_matrix
+title: selection_matrix
+username:
+account: pgonzaleze
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6496741
+bundleId: 6012810
+url: https://pgonzaleze.shinyapps.io/selection_matrix/
+when: 1655358849.15148
+lastSyncTime: 1655358849.15148
+asMultiple: FALSE
+asStatic: FALSE
